@@ -15,7 +15,7 @@ Then to see (and reproduce) the evolution of the project work, just follow the p
 
 * The features generated are lags from the monthly sold item counts and revenues (price * items), and an expanding mean encoding of item category.
 
-* The initial solution was a staking of models (NeuralNet, Linear ElasticNet and LightGBM) with two levels, but at the end, a LGB model alone performs better! 
+* The initial solution was a staking of models (NeuralNet, Linear ElasticNet and LightGBM) with another Linear Regressor or Decission Tree or Linear Convex Mix, but at the end, a LGB model alone performs better! 
 
 ## Environment:
 
