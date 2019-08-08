@@ -9,7 +9,7 @@ Firstly read the brief documentation to have a comprehensive overview (***0_Fina
 
 Then to see (and reproduce) the evolution of the project work, just follow the python notebooks in the order of their names.
 
-**NOTE:** The ./data folder is empty, just copy the competition data inside it.
+**NOTE:** Create a ./data folder and copy the competition data inside it, create a ./features and ./submissions empty folders too.
 
 ## Spoiler:
 
